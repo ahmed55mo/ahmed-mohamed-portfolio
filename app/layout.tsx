@@ -3,9 +3,14 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Ahmed Mohamed | AI Engineer',
+  description: 'AI Engineer specializing in LLMs, RAG, NLP, Machine Learning and Deep Learning.',
+  generator: 'Next.js',
+  openGraph: {
+    title: 'Ahmed Mohamed | AI Engineer',
+    description: 'Building practical AI systems with LLMs, RAG, NLP, and Machine Learning.',
+    type: 'website',
+  },
   icons: {
     icon: [
       {
