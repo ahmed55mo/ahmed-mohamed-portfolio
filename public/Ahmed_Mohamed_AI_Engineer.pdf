@@ -1,0 +1,55 @@
+
+
+Ahmed Mohamed Ahmed
+Generative and Agentic AI Engineer
+a.mohamed.elewaisy@gmail.com
+ 
+01018721622
+ 
+Cairo, Egypt
+ 
+LinkedIn
+ 
+GitHub
+ 
+Career Objective
+Computer Science student and aspiring AI Engineer with hands-on experience in Python, PyTorch, and 
+TensorFlow. Skilled in developing scalable ML, Computer Vision, and NLP solutions for real-world applications.
+Education
+B.Sc. in Computer Science
+Faculty of Computers and Artificial Intelligence, Cairo University
+2027 | Cairo, Egypt
+•Major: Artifiticial Intelligence
+Professional Experience
+NLP Engineer Intern, National Telecommunication Institute07/2026 – 08/2026 | Cairo, Egypt
+•Built NLP pipelines for text preprocessing, EDA, and multi-class classification, with specialized Arabic text 
+processing.
+•Built and fine-tuned deep learning and Transformer-based Generative AI models (RNN, LSTM, GRU, Hugging 
+Face) using custom word embeddings and attention mechanisms.
+•Engineered agentic AI and RAG workflows using LangChain/LangGraph, serving models via REST APIs.
+•Key Project: Built an AI-driven RPG using Generative LLMs, RAG, and multi-agent orchestration (LangGraph).
+Projects
+Fake news Detection , NLP model that detects fake news
+•description: Built and fine-tuned deep learning models (CNN, LSTM/BiLSTM, BERT, DistilBERT) using GloVe 
+embeddings for text classification.
+•Tools: Python, TensorFlow/PyTorch, Hugging Face Transformers, GloVe, Keras, scikit-learn
+AI-based RPG game 
+•description: Built an AI-driven RPG using local LLMs, RAG, and multi-agent orchestration for dynamic NPC 
+dialogue and storytelling.
+•Tools: Python, Ollama (Phi-3 Mini), LangChain/LangGraph, FastAPI, RAG (vector store)
+Skills
+Programming Languages
+Python, C++
+Deep Learning
+Neural Networks, CNNs, RNNs, Transformers, 
+Transfer Learning
+Tools & Platforms
+Git, GitHub, Jupyter Notebook, Google Colab, VS 
+Code
+Machine Learning and AI
+Supervised & Unsupervised Learning, Feature 
+Engineering, Hyperparameter Tuning
+Frameworks & Libraries
+TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, 
+Pandas, NumPy, Matplotlib, Seaborn, LangChain, 
+LangGraph, Transformers, HuggingFace
